@@ -1,0 +1,9 @@
+*.log
+__pycache__/
+data/raw/
+data/processed/era5_winds.npz
+data/processed/polar/
+data/processed/orientations_v0.csv
+results/addendum_print.txt
+data/processed/s2polar/
+.pytest_cache/

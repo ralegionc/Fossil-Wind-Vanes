@@ -1,0 +1,11 @@
+{
+ "daily_AWI_vs_MPI_rotation_r": 0.12062822816375844,
+ "daily_same_sign_frac": 0.4231274638633377,
+ "daily_median_abs_rot_AWI": 9.0,
+ "daily_median_abs_rot_MPI": 4.0,
+ "monthly_pairwise_r_median": 0.1586872747853408,
+ "monthly_pairwise_r_range": [
+  -0.22967027380614952,
+  0.46929165846800885
+ ]
+}

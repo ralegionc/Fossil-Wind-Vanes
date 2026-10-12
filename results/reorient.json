@@ -1,0 +1,23 @@
+{
+ "fastest_fifth_misfit": 40.6983606557377,
+ "check_passes": false,
+ "T_rot_percentiles": {
+  "5": 715.0,
+  "25": 2328.0,
+  "50": 7715.0,
+  "75": 22517.0,
+  "95": 70440.0
+ },
+ "share_over_21kyr": 0.26544021024967146,
+ "share_over_21kyr_linear": 0.4178610804851158,
+ "slow_minus_fast": {
+  "fields": 20,
+  "tiles_slow": 398,
+  "tiles_fast": 1036,
+  "mean": -3.5497068454225342,
+  "ci": [
+   -8.978995939209856,
+   2.4085531051052693
+  ]
+ }
+}

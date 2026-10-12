@@ -1,0 +1,13 @@
+numpy
+pandas
+openpyxl
+scipy
+xarray
+netCDF4
+rasterio
+gcsfs
+numcodecs
+requests
+matplotlib
+cartopy
+pytest

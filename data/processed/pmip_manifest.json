@@ -1,0 +1,2872 @@
+{
+ "AWI-ESM-1-1-LR|lgm|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20200212",
+  "end_year": 4000,
+  "files": [
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395101-395512.nc",
+    "size": 3177984,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395101-395512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395101-395512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395601-396012.nc",
+    "size": 3174478,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395601-396012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395601-396012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396101-396512.nc",
+    "size": 3178735,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396101-396512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396101-396512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396601-397012.nc",
+    "size": 3180423,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396601-397012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396601-397012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397101-397512.nc",
+    "size": 3179357,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397101-397512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397101-397512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397601-398012.nc",
+    "size": 3179294,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397601-398012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397601-398012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398101-398512.nc",
+    "size": 3178104,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398101-398512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398101-398512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398601-399012.nc",
+    "size": 3181205,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398601-399012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398601-399012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399101-399512.nc",
+    "size": 3172794,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399101-399512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399101-399512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399601-400012.nc",
+    "size": 3178769,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399601-400012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399601-400012.nc"
+    ]
+   }
+  ]
+ },
+ "AWI-ESM-1-1-LR|lgm|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20200212",
+  "end_year": 4000,
+  "files": [
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395101-395512.nc",
+    "size": 3205802,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395101-395512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395101-395512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395601-396012.nc",
+    "size": 3207432,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395601-396012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_395601-396012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396101-396512.nc",
+    "size": 3207087,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396101-396512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396101-396512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396601-397012.nc",
+    "size": 3210548,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396601-397012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_396601-397012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397101-397512.nc",
+    "size": 3210245,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397101-397512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397101-397512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397601-398012.nc",
+    "size": 3211259,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397601-398012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_397601-398012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398101-398512.nc",
+    "size": 3208414,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398101-398512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398101-398512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398601-399012.nc",
+    "size": 3208666,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398601-399012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_398601-399012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399101-399512.nc",
+    "size": 3204635,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399101-399512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399101-399512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399601-400012.nc",
+    "size": 3211089,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399601-400012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/lgm/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_lgm_r1i1p1f1_gn_399601-400012.nc"
+    ]
+   }
+  ]
+ },
+ "AWI-ESM-1-1-LR|piControl|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20200212",
+  "end_year": 1954,
+  "files": [
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc",
+    "size": 681321,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc",
+    "size": 682340,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc",
+    "size": 682300,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc",
+    "size": 681758,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc",
+    "size": 681517,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc",
+    "size": 681659,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc",
+    "size": 679988,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc",
+    "size": 681834,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc",
+    "size": 678006,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc",
+    "size": 679877,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc",
+    "size": 682230,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc",
+    "size": 678422,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc",
+    "size": 679405,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc",
+    "size": 681485,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc",
+    "size": 681992,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc",
+    "size": 678056,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc",
+    "size": 680545,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc",
+    "size": 680334,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc",
+    "size": 679436,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc",
+    "size": 679426,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc",
+    "size": 679648,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc",
+    "size": 682852,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc",
+    "size": 681935,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc",
+    "size": 680482,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc",
+    "size": 677995,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc",
+    "size": 679938,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc",
+    "size": 680104,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc",
+    "size": 679088,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc",
+    "size": 679075,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc",
+    "size": 681415,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc",
+    "size": 680865,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc",
+    "size": 680690,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc",
+    "size": 682376,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc",
+    "size": 678850,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc",
+    "size": 681906,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc",
+    "size": 681473,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc",
+    "size": 681990,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc",
+    "size": 679382,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc",
+    "size": 680949,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc",
+    "size": 680112,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc",
+    "size": 682299,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc",
+    "size": 682709,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc",
+    "size": 682095,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc",
+    "size": 681389,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc",
+    "size": 679810,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc",
+    "size": 679879,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc",
+    "size": 680972,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc",
+    "size": 681993,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc",
+    "size": 678791,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc",
+    "size": 680479,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc"
+    ]
+   }
+  ]
+ },
+ "AWI-ESM-1-1-LR|piControl|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20200212",
+  "end_year": 1954,
+  "files": [
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc",
+    "size": 685451,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190501-190512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc",
+    "size": 685207,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190601-190612.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc",
+    "size": 688070,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190701-190712.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc",
+    "size": 684403,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190801-190812.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc",
+    "size": 686011,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_190901-190912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc",
+    "size": 687632,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191001-191012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc",
+    "size": 685057,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191101-191112.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc",
+    "size": 686998,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191201-191212.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc",
+    "size": 685992,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191301-191312.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc",
+    "size": 686220,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191401-191412.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc",
+    "size": 686466,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191501-191512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc",
+    "size": 685018,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191601-191612.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc",
+    "size": 686265,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191701-191712.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc",
+    "size": 685484,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191801-191812.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc",
+    "size": 684939,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_191901-191912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc",
+    "size": 685445,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192001-192012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc",
+    "size": 686722,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192101-192112.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc",
+    "size": 686360,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192201-192212.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc",
+    "size": 686810,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192301-192312.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc",
+    "size": 685384,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192401-192412.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc",
+    "size": 685318,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192501-192512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc",
+    "size": 686038,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192601-192612.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc",
+    "size": 685229,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192701-192712.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc",
+    "size": 684708,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192801-192812.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc",
+    "size": 686386,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_192901-192912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc",
+    "size": 685641,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193001-193012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc",
+    "size": 683285,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193101-193112.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc",
+    "size": 683328,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193201-193212.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc",
+    "size": 683791,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193301-193312.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc",
+    "size": 688042,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193401-193412.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc",
+    "size": 685989,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193501-193512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc",
+    "size": 685987,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193601-193612.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc",
+    "size": 687461,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193701-193712.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc",
+    "size": 685896,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193801-193812.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc",
+    "size": 684783,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_193901-193912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc",
+    "size": 686178,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194001-194012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc",
+    "size": 685911,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194101-194112.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc",
+    "size": 686873,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194201-194212.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc",
+    "size": 685117,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194301-194312.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc",
+    "size": 686389,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194401-194412.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc",
+    "size": 686409,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194501-194512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc",
+    "size": 688163,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194601-194612.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc",
+    "size": 684605,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194701-194712.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc",
+    "size": 687309,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194801-194812.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc",
+    "size": 687969,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_194901-194912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc",
+    "size": 685088,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195001-195012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc",
+    "size": 685735,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195101-195112.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc",
+    "size": 686037,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195201-195212.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc",
+    "size": 685143,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195301-195312.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc",
+    "size": 685863,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/AWI/AWI-ESM-1-1-LR/piControl/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_piControl_r1i1p1f1_gn_195401-195412.nc"
+    ]
+   }
+  ]
+ },
+ "AWI-ESM-1-1-LR|midHolocene|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20200212",
+  "end_year": 3205,
+  "files": [
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_315601-316012.nc",
+    "size": 3164189,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_315601-316012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_315601-316012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316101-316512.nc",
+    "size": 3164408,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316101-316512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316101-316512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316601-317012.nc",
+    "size": 3165431,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316601-317012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316601-317012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317101-317512.nc",
+    "size": 3165980,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317101-317512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317101-317512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317601-318012.nc",
+    "size": 3166467,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317601-318012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317601-318012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318101-318512.nc",
+    "size": 3166654,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318101-318512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318101-318512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318601-319012.nc",
+    "size": 3163553,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318601-319012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318601-319012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319101-319512.nc",
+    "size": 3166415,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319101-319512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319101-319512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319601-320012.nc",
+    "size": 3166635,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319601-320012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319601-320012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_320101-320512.nc",
+    "size": 3164863,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_320101-320512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20200212/uas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_320101-320512.nc"
+    ]
+   }
+  ]
+ },
+ "AWI-ESM-1-1-LR|midHolocene|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20200212",
+  "end_year": 3205,
+  "files": [
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_315601-316012.nc",
+    "size": 3197488,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_315601-316012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_315601-316012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316101-316512.nc",
+    "size": 3190025,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316101-316512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316101-316512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316601-317012.nc",
+    "size": 3193771,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316601-317012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_316601-317012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317101-317512.nc",
+    "size": 3192452,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317101-317512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317101-317512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317601-318012.nc",
+    "size": 3185958,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317601-318012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_317601-318012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318101-318512.nc",
+    "size": 3192134,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318101-318512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318101-318512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318601-319012.nc",
+    "size": 3191102,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318601-319012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_318601-319012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319101-319512.nc",
+    "size": 3189279,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319101-319512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319101-319512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319601-320012.nc",
+    "size": 3194706,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319601-320012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_319601-320012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_320101-320512.nc",
+    "size": 3191567,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_320101-320512.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/AWI/AWI-ESM-1-1-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20200212/vas_Amon_AWI-ESM-1-1-LR_midHolocene_r1i1p1f1_gn_320101-320512.nc"
+    ]
+   }
+  ]
+ },
+ "INM-CM4-8|lgm|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20190802",
+  "end_year": 2099,
+  "files": [
+   {
+    "title": "uas_Amon_INM-CM4-8_lgm_r1i1p1f1_gr1_200001-209912.nc",
+    "size": 84405520,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/INM/INM-CM4-8/lgm/r1i1p1f1/Amon/uas/gr1/v20190802/uas_Amon_INM-CM4-8_lgm_r1i1p1f1_gr1_200001-209912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/INM/INM-CM4-8/lgm/r1i1p1f1/Amon/uas/gr1/v20190802/uas_Amon_INM-CM4-8_lgm_r1i1p1f1_gr1_200001-209912.nc"
+    ]
+   }
+  ]
+ },
+ "INM-CM4-8|lgm|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20190802",
+  "end_year": 2099,
+  "files": [
+   {
+    "title": "vas_Amon_INM-CM4-8_lgm_r1i1p1f1_gr1_200001-209912.nc",
+    "size": 85576202,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/INM/INM-CM4-8/lgm/r1i1p1f1/Amon/vas/gr1/v20190802/vas_Amon_INM-CM4-8_lgm_r1i1p1f1_gr1_200001-209912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/INM/INM-CM4-8/lgm/r1i1p1f1/Amon/vas/gr1/v20190802/vas_Amon_INM-CM4-8_lgm_r1i1p1f1_gr1_200001-209912.nc"
+    ]
+   }
+  ]
+ },
+ "INM-CM4-8|piControl|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20190605",
+  "end_year": 2380,
+  "files": [
+   {
+    "title": "uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc",
+    "size": 84131311,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc",
+    "size": 14368665,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/uas/gr1/v20190605/uas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc"
+    ]
+   }
+  ]
+ },
+ "INM-CM4-8|piControl|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20190605",
+  "end_year": 2380,
+  "files": [
+   {
+    "title": "vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc",
+    "size": 85353823,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_226401-236312.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc",
+    "size": 14576205,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/INM/INM-CM4-8/piControl/r1i1p1f1/Amon/vas/gr1/v20190605/vas_Amon_INM-CM4-8_piControl_r1i1p1f1_gr1_236401-238012.nc"
+    ]
+   }
+  ]
+ },
+ "INM-CM4-8|midHolocene|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20190802",
+  "end_year": 2079,
+  "files": [
+   {
+    "title": "uas_Amon_INM-CM4-8_midHolocene_r1i1p1f1_gr1_198001-207912.nc",
+    "size": 84125982,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/INM/INM-CM4-8/midHolocene/r1i1p1f1/Amon/uas/gr1/v20190802/uas_Amon_INM-CM4-8_midHolocene_r1i1p1f1_gr1_198001-207912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/INM/INM-CM4-8/midHolocene/r1i1p1f1/Amon/uas/gr1/v20190802/uas_Amon_INM-CM4-8_midHolocene_r1i1p1f1_gr1_198001-207912.nc"
+    ]
+   }
+  ]
+ },
+ "INM-CM4-8|midHolocene|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20190802",
+  "end_year": 2079,
+  "files": [
+   {
+    "title": "vas_Amon_INM-CM4-8_midHolocene_r1i1p1f1_gr1_198001-207912.nc",
+    "size": 85358024,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/INM/INM-CM4-8/midHolocene/r1i1p1f1/Amon/vas/gr1/v20190802/vas_Amon_INM-CM4-8_midHolocene_r1i1p1f1_gr1_198001-207912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/INM/INM-CM4-8/midHolocene/r1i1p1f1/Amon/vas/gr1/v20190802/vas_Amon_INM-CM4-8_midHolocene_r1i1p1f1_gr1_198001-207912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ES2L|lgm|uas": {
+  "member": "r1i1p1f2",
+  "version": "v20191002",
+  "end_year": 3299,
+  "files": [
+   {
+    "title": "uas_Amon_MIROC-ES2L_lgm_r1i1p1f2_gn_320001-329912.nc",
+    "size": 32371348,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MIROC/MIROC-ES2L/lgm/r1i1p1f2/Amon/uas/gn/v20191002/uas_Amon_MIROC-ES2L_lgm_r1i1p1f2_gn_320001-329912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MIROC/MIROC-ES2L/lgm/r1i1p1f2/Amon/uas/gn/v20191002/uas_Amon_MIROC-ES2L_lgm_r1i1p1f2_gn_320001-329912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ES2L|lgm|vas": {
+  "member": "r1i1p1f2",
+  "version": "v20191002",
+  "end_year": 3299,
+  "files": [
+   {
+    "title": "vas_Amon_MIROC-ES2L_lgm_r1i1p1f2_gn_320001-329912.nc",
+    "size": 32675499,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MIROC/MIROC-ES2L/lgm/r1i1p1f2/Amon/vas/gn/v20191002/vas_Amon_MIROC-ES2L_lgm_r1i1p1f2_gn_320001-329912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MIROC/MIROC-ES2L/lgm/r1i1p1f2/Amon/vas/gn/v20191002/vas_Amon_MIROC-ES2L_lgm_r1i1p1f2_gn_320001-329912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ES2L|piControl|uas": {
+  "member": "r1i1p1f2",
+  "version": "v20190823",
+  "end_year": 2349,
+  "files": [
+   {
+    "title": "uas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc",
+    "size": 32331885,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/uas/gn/v20190823/uas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/uas/gn/v20190823/uas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/uas/gn/v20190823/uas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/uas/gn/v20190823/uas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ES2L|piControl|vas": {
+  "member": "r1i1p1f2",
+  "version": "v20190823",
+  "end_year": 2349,
+  "files": [
+   {
+    "title": "vas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc",
+    "size": 32677322,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/vas/gn/v20190823/vas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/vas/gn/v20190823/vas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/vas/gn/v20190823/vas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MIROC/MIROC-ES2L/piControl/r1i1p1f2/Amon/vas/gn/v20190823/vas_Amon_MIROC-ES2L_piControl_r1i1p1f2_gn_225001-234912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ES2L|midHolocene|uas": {
+  "member": "r1i1p1f2",
+  "version": "v20191002",
+  "end_year": 8099,
+  "files": [
+   {
+    "title": "uas_Amon_MIROC-ES2L_midHolocene_r1i1p1f2_gn_800001-809912.nc",
+    "size": 32333940,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/uas/gn/v20191002/uas_Amon_MIROC-ES2L_midHolocene_r1i1p1f2_gn_800001-809912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/uas/gn/v20191002/uas_Amon_MIROC-ES2L_midHolocene_r1i1p1f2_gn_800001-809912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ES2L|midHolocene|vas": {
+  "member": "r1i1p1f2",
+  "version": "v20191002",
+  "end_year": 8099,
+  "files": [
+   {
+    "title": "vas_Amon_MIROC-ES2L_midHolocene_r1i1p1f2_gn_800001-809912.nc",
+    "size": 32661872,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/vas/gn/v20191002/vas_Amon_MIROC-ES2L_midHolocene_r1i1p1f2_gn_800001-809912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MIROC/MIROC-ES2L/midHolocene/r1i1p1f2/Amon/vas/gn/v20191002/vas_Amon_MIROC-ES2L_midHolocene_r1i1p1f2_gn_800001-809912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM1-2-LR|lgm|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20190710",
+  "end_year": 2349,
+  "files": [
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_229001-230912.nc",
+    "size": 11364367,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_229001-230912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_229001-230912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_231001-232912.nc",
+    "size": 11343105,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_231001-232912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_231001-232912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_233001-234912.nc",
+    "size": 11325611,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_233001-234912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_233001-234912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM1-2-LR|lgm|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20190710",
+  "end_year": 2349,
+  "files": [
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_229001-230912.nc",
+    "size": 11582196,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_229001-230912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_229001-230912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_231001-232912.nc",
+    "size": 11558708,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_231001-232912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_231001-232912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_233001-234912.nc",
+    "size": 11541967,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_233001-234912.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/lgm/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_lgm_r1i1p1f1_gn_233001-234912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM1-2-LR|piControl|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20190710",
+  "end_year": 2849,
+  "files": [
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc",
+    "size": 11242994,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc",
+    "size": 11209435,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc",
+    "size": 11226690,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM1-2-LR|piControl|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20190710",
+  "end_year": 2849,
+  "files": [
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc",
+    "size": 11502321,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_279001-280912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc",
+    "size": 11498313,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_281001-282912.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc",
+    "size": 11470727,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc",
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc",
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/CMIP/MPI-M/MPI-ESM1-2-LR/piControl/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_piControl_r1i1p1f1_gn_283001-284912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM1-2-LR|midHolocene|uas": {
+  "member": "r1i1p1f1",
+  "version": "v20190710",
+  "end_year": 1500,
+  "files": [
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_144101-146012.nc",
+    "size": 11209133,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_144101-146012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_144101-146012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_146101-148012.nc",
+    "size": 11223632,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_146101-148012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_146101-148012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_148101-150012.nc",
+    "size": 11190369,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_148101-150012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/uas/gn/v20190710/uas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_148101-150012.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM1-2-LR|midHolocene|vas": {
+  "member": "r1i1p1f1",
+  "version": "v20190710",
+  "end_year": 1500,
+  "files": [
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_144101-146012.nc",
+    "size": 11455036,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_144101-146012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_144101-146012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_146101-148012.nc",
+    "size": 11496471,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_146101-148012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_146101-148012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_148101-150012.nc",
+    "size": 11474682,
+    "http": [
+     "http://esgf3.dkrz.de/thredds/fileServer/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_148101-150012.nc"
+    ],
+    "opendap": [
+     "http://esgf3.dkrz.de/thredds/dodsC/cmip6/PMIP/MPI-M/MPI-ESM1-2-LR/midHolocene/r1i1p1f1/Amon/vas/gn/v20190710/vas_Amon_MPI-ESM1-2-LR_midHolocene_r1i1p1f1_gn_148101-150012.nc"
+    ]
+   }
+  ]
+ },
+ "CNRM-CM5|lgm|uas": {
+  "member": "r1i1p1",
+  "version": "v20120530",
+  "end_year": 1999,
+  "files": [
+   {
+    "title": "uas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc",
+    "size": 78675160,
+    "http": [
+     "http://esg1.umr-cnrm.fr/thredds/fileServer/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/uas/uas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc",
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/uas/uas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc"
+    ],
+    "opendap": [
+     "http://esg1.umr-cnrm.fr/thredds/dodsC/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/uas/uas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc",
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/uas/uas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc"
+    ]
+   }
+  ]
+ },
+ "CNRM-CM5|lgm|vas": {
+  "member": "r1i1p1",
+  "version": "v20120530",
+  "end_year": 1999,
+  "files": [
+   {
+    "title": "vas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc",
+    "size": 78675160,
+    "http": [
+     "http://esg1.umr-cnrm.fr/thredds/fileServer/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/vas/vas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc",
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/vas/vas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc"
+    ],
+    "opendap": [
+     "http://esg1.umr-cnrm.fr/thredds/dodsC/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/vas/vas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc",
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/lgm/mon/atmos/Amon/r1i1p1/v20120530/vas/vas_Amon_CNRM-CM5_lgm_r1i1p1_195001-199912.nc"
+    ]
+   }
+  ]
+ },
+ "CNRM-CM5|piControl|uas": {
+  "member": "r1i1p1",
+  "version": "v20110701",
+  "end_year": 2699,
+  "files": [
+   {
+    "title": "uas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc",
+    "size": 78675164,
+    "http": [
+     "http://esg1.umr-cnrm.fr/thredds/fileServer/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/uas/uas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc",
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/uas/uas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc"
+    ],
+    "opendap": [
+     "http://esg1.umr-cnrm.fr/thredds/dodsC/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/uas/uas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc",
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/uas/uas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc"
+    ]
+   }
+  ]
+ },
+ "CNRM-CM5|piControl|vas": {
+  "member": "r1i1p1",
+  "version": "v20110701",
+  "end_year": 2699,
+  "files": [
+   {
+    "title": "vas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc",
+    "size": 78675164,
+    "http": [
+     "http://esg1.umr-cnrm.fr/thredds/fileServer/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/vas/vas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc",
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/vas/vas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc"
+    ],
+    "opendap": [
+     "http://esg1.umr-cnrm.fr/thredds/dodsC/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/vas/vas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc",
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/piControl/mon/atmos/Amon/r1i1p1/v20110701/vas/vas_Amon_CNRM-CM5_piControl_r1i1p1_265001-269912.nc"
+    ]
+   }
+  ]
+ },
+ "CNRM-CM5|midHolocene|uas": {
+  "member": "r1i1p1",
+  "version": "v20110927",
+  "end_year": 2149,
+  "files": [
+   {
+    "title": "uas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc",
+    "size": 78675168,
+    "http": [
+     "http://esg1.umr-cnrm.fr/thredds/fileServer/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/uas/uas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc",
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/uas/uas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc"
+    ],
+    "opendap": [
+     "http://esg1.umr-cnrm.fr/thredds/dodsC/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/uas/uas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc",
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/uas/uas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc"
+    ]
+   }
+  ]
+ },
+ "CNRM-CM5|midHolocene|vas": {
+  "member": "r1i1p1",
+  "version": "v20110927",
+  "end_year": 2149,
+  "files": [
+   {
+    "title": "vas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc",
+    "size": 78675168,
+    "http": [
+     "http://esg1.umr-cnrm.fr/thredds/fileServer/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/vas/vas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc",
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/vas/vas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc"
+    ],
+    "opendap": [
+     "http://esg1.umr-cnrm.fr/thredds/dodsC/CMIP5_CNRM/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/vas/vas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc",
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/CNRM-CERFACS/CNRM-CM5/midHolocene/mon/atmos/Amon/r1i1p1/v20110927/vas/vas_Amon_CNRM-CM5_midHolocene_r1i1p1_210001-214912.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|lgm|uas": {
+  "member": "r1i1p150",
+  "version": "v20120516",
+  "end_year": 3099,
+  "files": [
+   {
+    "title": "uas_Amon_GISS-E2-R_lgm_r1i1p150_305001-307412.nc",
+    "size": 15573124,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/uas/uas_Amon_GISS-E2-R_lgm_r1i1p150_305001-307412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/uas/uas_Amon_GISS-E2-R_lgm_r1i1p150_305001-307412.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_GISS-E2-R_lgm_r1i1p150_307501-309912.nc",
+    "size": 15573124,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/uas/uas_Amon_GISS-E2-R_lgm_r1i1p150_307501-309912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/uas/uas_Amon_GISS-E2-R_lgm_r1i1p150_307501-309912.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|lgm|vas": {
+  "member": "r1i1p150",
+  "version": "v20120516",
+  "end_year": 3099,
+  "files": [
+   {
+    "title": "vas_Amon_GISS-E2-R_lgm_r1i1p150_305001-307412.nc",
+    "size": 15573124,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/vas/vas_Amon_GISS-E2-R_lgm_r1i1p150_305001-307412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/vas/vas_Amon_GISS-E2-R_lgm_r1i1p150_305001-307412.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_GISS-E2-R_lgm_r1i1p150_307501-309912.nc",
+    "size": 15573124,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/vas/vas_Amon_GISS-E2-R_lgm_r1i1p150_307501-309912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/lgm/mon/atmos/Amon/r1i1p150/v20120516/vas/vas_Amon_GISS-E2-R_lgm_r1i1p150_307501-309912.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|piControl|uas": {
+  "member": "r1i1p1",
+  "version": "v20121017",
+  "end_year": 4530,
+  "files": [
+   {
+    "title": "uas_Amon_GISS-E2-R_piControl_r1i1p1_448101-450512.nc",
+    "size": 15572856,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p1_448101-450512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p1_448101-450512.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_GISS-E2-R_piControl_r1i1p1_450601-453012.nc",
+    "size": 15572856,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p1_450601-453012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p1_450601-453012.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|piControl_p141|uas": {
+  "member": "r1i1p141",
+  "version": "v20121017",
+  "end_year": 2012,
+  "files": [
+   {
+    "title": "uas_Amon_GISS-E2-R_piControl_r1i1p141_195101-200012.nc",
+    "size": 31132056,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p141_195101-200012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p141_195101-200012.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_GISS-E2-R_piControl_r1i1p141_200101-201212.nc",
+    "size": 7482072,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p141_200101-201212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/uas/uas_Amon_GISS-E2-R_piControl_r1i1p141_200101-201212.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|piControl|vas": {
+  "member": "r1i1p1",
+  "version": "v20121017",
+  "end_year": 4530,
+  "files": [
+   {
+    "title": "vas_Amon_GISS-E2-R_piControl_r1i1p1_448101-450512.nc",
+    "size": 15572856,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p1_448101-450512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p1_448101-450512.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_GISS-E2-R_piControl_r1i1p1_450601-453012.nc",
+    "size": 15572856,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p1_450601-453012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p1/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p1_450601-453012.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|piControl_p141|vas": {
+  "member": "r1i1p141",
+  "version": "v20121017",
+  "end_year": 2012,
+  "files": [
+   {
+    "title": "vas_Amon_GISS-E2-R_piControl_r1i1p141_195101-200012.nc",
+    "size": 31132056,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p141_195101-200012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p141_195101-200012.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_GISS-E2-R_piControl_r1i1p141_200101-201212.nc",
+    "size": 7482072,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p141_200101-201212.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/piControl/mon/atmos/Amon/r1i1p141/v20121017/vas/vas_Amon_GISS-E2-R_piControl_r1i1p141_200101-201212.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|midHolocene|uas": {
+  "member": "r1i1p1",
+  "version": "v20120716",
+  "end_year": 2599,
+  "files": [
+   {
+    "title": "uas_Amon_GISS-E2-R_midHolocene_r1i1p1_255001-257412.nc",
+    "size": 15573132,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/uas/uas_Amon_GISS-E2-R_midHolocene_r1i1p1_255001-257412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/uas/uas_Amon_GISS-E2-R_midHolocene_r1i1p1_255001-257412.nc"
+    ]
+   },
+   {
+    "title": "uas_Amon_GISS-E2-R_midHolocene_r1i1p1_257501-259912.nc",
+    "size": 15573132,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/uas/uas_Amon_GISS-E2-R_midHolocene_r1i1p1_257501-259912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/uas/uas_Amon_GISS-E2-R_midHolocene_r1i1p1_257501-259912.nc"
+    ]
+   }
+  ]
+ },
+ "GISS-E2-R|midHolocene|vas": {
+  "member": "r1i1p1",
+  "version": "v20120716",
+  "end_year": 2599,
+  "files": [
+   {
+    "title": "vas_Amon_GISS-E2-R_midHolocene_r1i1p1_255001-257412.nc",
+    "size": 15573132,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/vas/vas_Amon_GISS-E2-R_midHolocene_r1i1p1_255001-257412.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/vas/vas_Amon_GISS-E2-R_midHolocene_r1i1p1_255001-257412.nc"
+    ]
+   },
+   {
+    "title": "vas_Amon_GISS-E2-R_midHolocene_r1i1p1_257501-259912.nc",
+    "size": 15573132,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/vas/vas_Amon_GISS-E2-R_midHolocene_r1i1p1_257501-259912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/NASA-GISS/GISS-E2-R/midHolocene/mon/atmos/Amon/r1i1p1/v20120716/vas/vas_Amon_GISS-E2-R_midHolocene_r1i1p1_257501-259912.nc"
+    ]
+   }
+  ]
+ },
+ "IPSL-CM5A-LR|lgm|uas": {
+  "member": "r1i1p1",
+  "version": "v20120114",
+  "end_year": 2800,
+  "files": [
+   {
+    "title": "uas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc",
+    "size": 88544328,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/uas/uas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/fileServer/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/uas/uas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/uas/uas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/dodsC/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/uas/uas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc"
+    ]
+   }
+  ]
+ },
+ "IPSL-CM5A-LR|lgm|vas": {
+  "member": "r1i1p1",
+  "version": "v20120114",
+  "end_year": 2800,
+  "files": [
+   {
+    "title": "vas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc",
+    "size": 88544328,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/vas/vas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/fileServer/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/vas/vas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/vas/vas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/dodsC/cmip5/output1/IPSL/IPSL-CM5A-LR/lgm/mon/atmos/Amon/r1i1p1/v20120114/vas/vas_Amon_IPSL-CM5A-LR_lgm_r1i1p1_260101-280012.nc"
+    ]
+   }
+  ]
+ },
+ "IPSL-CM5A-LR|piControl|uas": {
+  "member": "r1i1p1",
+  "version": "v20130506",
+  "end_year": 2799,
+  "files": [
+   {
+    "title": "uas_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc",
+    "size": 442669132,
+    "http": [
+     "http://vesg.ipsl.upmc.fr/thredds/fileServer/cmip5/output1/IPSL/IPSL-CM5A-LR/piControl/mon/atmos/Amon/r1i1p1/v20130506/uas/uas_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc"
+    ],
+    "opendap": [
+     "http://vesg.ipsl.upmc.fr/thredds/dodsC/cmip5/output1/IPSL/IPSL-CM5A-LR/piControl/mon/atmos/Amon/r1i1p1/v20130506/uas/uas_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc"
+    ]
+   }
+  ]
+ },
+ "IPSL-CM5A-LR|piControl|vas": {
+  "member": "r1i1p1",
+  "version": "v20130506",
+  "end_year": 2799,
+  "files": [
+   {
+    "title": "vas_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc",
+    "size": 442669132,
+    "http": [
+     "http://vesg.ipsl.upmc.fr/thredds/fileServer/cmip5/output1/IPSL/IPSL-CM5A-LR/piControl/mon/atmos/Amon/r1i1p1/v20130506/vas/vas_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc"
+    ],
+    "opendap": [
+     "http://vesg.ipsl.upmc.fr/thredds/dodsC/cmip5/output1/IPSL/IPSL-CM5A-LR/piControl/mon/atmos/Amon/r1i1p1/v20130506/vas/vas_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc"
+    ]
+   }
+  ]
+ },
+ "IPSL-CM5A-LR|midHolocene|uas": {
+  "member": "r1i1p1",
+  "version": "v20111119",
+  "end_year": 2800,
+  "files": [
+   {
+    "title": "uas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc",
+    "size": 221341136,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/uas/uas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/fileServer/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/uas/uas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/uas/uas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/dodsC/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/uas/uas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc"
+    ]
+   }
+  ]
+ },
+ "IPSL-CM5A-LR|midHolocene|vas": {
+  "member": "r1i1p1",
+  "version": "v20111119",
+  "end_year": 2800,
+  "files": [
+   {
+    "title": "vas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc",
+    "size": 221341136,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/vas/vas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/fileServer/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/vas/vas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/vas/vas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc",
+     "http://vesg.ipsl.upmc.fr/thredds/dodsC/cmip5/output1/IPSL/IPSL-CM5A-LR/midHolocene/mon/atmos/Amon/r1i1p1/v20111119/vas/vas_Amon_IPSL-CM5A-LR_midHolocene_r1i1p1_230101-280012.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ESM|lgm|uas": {
+  "member": "r1i1p1",
+  "version": "v20120710",
+  "end_year": 4699,
+  "files": [
+   {
+    "title": "uas_Amon_MIROC-ESM_lgm_r1i1p1_460001-469912.nc",
+    "size": 39363228,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/lgm/mon/atmos/Amon/r1i1p1/v20120710/uas/uas_Amon_MIROC-ESM_lgm_r1i1p1_460001-469912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/lgm/mon/atmos/Amon/r1i1p1/v20120710/uas/uas_Amon_MIROC-ESM_lgm_r1i1p1_460001-469912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ESM|lgm|vas": {
+  "member": "r1i1p1",
+  "version": "v20120710",
+  "end_year": 4699,
+  "files": [
+   {
+    "title": "vas_Amon_MIROC-ESM_lgm_r1i1p1_460001-469912.nc",
+    "size": 39363228,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/lgm/mon/atmos/Amon/r1i1p1/v20120710/vas/vas_Amon_MIROC-ESM_lgm_r1i1p1_460001-469912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/lgm/mon/atmos/Amon/r1i1p1/v20120710/vas/vas_Amon_MIROC-ESM_lgm_r1i1p1_460001-469912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ESM|piControl|uas": {
+  "member": "r1i1p1",
+  "version": "v20120710",
+  "end_year": 2429,
+  "files": [
+   {
+    "title": "uas_Amon_MIROC-ESM_piControl_r1i1p1_233101-242912.nc",
+    "size": 38969732,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/piControl/mon/atmos/Amon/r1i1p1/v20120710/uas/uas_Amon_MIROC-ESM_piControl_r1i1p1_233101-242912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/piControl/mon/atmos/Amon/r1i1p1/v20120710/uas/uas_Amon_MIROC-ESM_piControl_r1i1p1_233101-242912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ESM|piControl|vas": {
+  "member": "r1i1p1",
+  "version": "v20120710",
+  "end_year": 2429,
+  "files": [
+   {
+    "title": "vas_Amon_MIROC-ESM_piControl_r1i1p1_233101-242912.nc",
+    "size": 38969732,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/piControl/mon/atmos/Amon/r1i1p1/v20120710/vas/vas_Amon_MIROC-ESM_piControl_r1i1p1_233101-242912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/piControl/mon/atmos/Amon/r1i1p1/v20120710/vas/vas_Amon_MIROC-ESM_piControl_r1i1p1_233101-242912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ESM|midHolocene|uas": {
+  "member": "r1i1p1",
+  "version": "v20120710",
+  "end_year": 2429,
+  "files": [
+   {
+    "title": "uas_Amon_MIROC-ESM_midHolocene_r1i1p1_233001-242912.nc",
+    "size": 39363512,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/midHolocene/mon/atmos/Amon/r1i1p1/v20120710/uas/uas_Amon_MIROC-ESM_midHolocene_r1i1p1_233001-242912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/midHolocene/mon/atmos/Amon/r1i1p1/v20120710/uas/uas_Amon_MIROC-ESM_midHolocene_r1i1p1_233001-242912.nc"
+    ]
+   }
+  ]
+ },
+ "MIROC-ESM|midHolocene|vas": {
+  "member": "r1i1p1",
+  "version": "v20120710",
+  "end_year": 2429,
+  "files": [
+   {
+    "title": "vas_Amon_MIROC-ESM_midHolocene_r1i1p1_233001-242912.nc",
+    "size": 39363512,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/midHolocene/mon/atmos/Amon/r1i1p1/v20120710/vas/vas_Amon_MIROC-ESM_midHolocene_r1i1p1_233001-242912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MIROC/MIROC-ESM/midHolocene/mon/atmos/Amon/r1i1p1/v20120710/vas/vas_Amon_MIROC-ESM_midHolocene_r1i1p1_233001-242912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM-P|lgm|uas": {
+  "member": "r1i1p1",
+  "version": "v20120602",
+  "end_year": 1949,
+  "files": [
+   {
+    "title": "uas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc",
+    "size": 88517868,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/fileServer/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/dodsC/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM-P|lgm|vas": {
+  "member": "r1i1p1",
+  "version": "v20120602",
+  "end_year": 1949,
+  "files": [
+   {
+    "title": "vas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc",
+    "size": 88517868,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/fileServer/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/dodsC/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/lgm/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_lgm_r1i1p1_185001-194912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM-P|piControl|uas": {
+  "member": "r1i1p1",
+  "version": "v20120602",
+  "end_year": 3005,
+  "files": [
+   {
+    "title": "uas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc",
+    "size": 182330048,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc",
+     "http://esgf1.dkrz.de/thredds/fileServer/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc",
+     "http://esgf1.dkrz.de/thredds/dodsC/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM-P|piControl|vas": {
+  "member": "r1i1p1",
+  "version": "v20120602",
+  "end_year": 3005,
+  "files": [
+   {
+    "title": "vas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc",
+    "size": 182330048,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc",
+     "http://esgf1.dkrz.de/thredds/fileServer/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc",
+     "http://esgf1.dkrz.de/thredds/dodsC/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/piControl/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_piControl_r1i1p1_280001-300512.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM-P|midHolocene|uas": {
+  "member": "r1i1p1",
+  "version": "v20120602",
+  "end_year": 1949,
+  "files": [
+   {
+    "title": "uas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc",
+    "size": 88517876,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/fileServer/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/dodsC/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/uas/uas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc"
+    ]
+   }
+  ]
+ },
+ "MPI-ESM-P|midHolocene|vas": {
+  "member": "r1i1p1",
+  "version": "v20120602",
+  "end_year": 1949,
+  "files": [
+   {
+    "title": "vas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc",
+    "size": 88517876,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/fileServer/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc",
+     "http://esgf1.dkrz.de/thredds/dodsC/cmip5/cmip5/output1/MPI-M/MPI-ESM-P/midHolocene/mon/atmos/Amon/r1i1p1/v20120602/vas/vas_Amon_MPI-ESM-P_midHolocene_r1i1p1_185001-194912.nc"
+    ]
+   }
+  ]
+ },
+ "MRI-CGCM3|lgm|uas": {
+  "member": "r1i1p1",
+  "version": "v20120701",
+  "end_year": 2600,
+  "files": [
+   {
+    "title": "uas_Amon_MRI-CGCM3_lgm_r1i1p1_250101-260012.nc",
+    "size": 245808384,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/lgm/mon/atmos/Amon/r1i1p1/v20120701/uas/uas_Amon_MRI-CGCM3_lgm_r1i1p1_250101-260012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/lgm/mon/atmos/Amon/r1i1p1/v20120701/uas/uas_Amon_MRI-CGCM3_lgm_r1i1p1_250101-260012.nc"
+    ]
+   }
+  ]
+ },
+ "MRI-CGCM3|lgm|vas": {
+  "member": "r1i1p1",
+  "version": "v20120701",
+  "end_year": 2600,
+  "files": [
+   {
+    "title": "vas_Amon_MRI-CGCM3_lgm_r1i1p1_250101-260012.nc",
+    "size": 245808384,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/lgm/mon/atmos/Amon/r1i1p1/v20120701/vas/vas_Amon_MRI-CGCM3_lgm_r1i1p1_250101-260012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/lgm/mon/atmos/Amon/r1i1p1/v20120701/vas/vas_Amon_MRI-CGCM3_lgm_r1i1p1_250101-260012.nc"
+    ]
+   }
+  ]
+ },
+ "MRI-CGCM3|piControl|uas": {
+  "member": "r1i1p1",
+  "version": "v20120701",
+  "end_year": 2350,
+  "files": [
+   {
+    "title": "uas_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc",
+    "size": 1228963592,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/piControl/mon/atmos/Amon/r1i1p1/v20120701/uas/uas_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/piControl/mon/atmos/Amon/r1i1p1/v20120701/uas/uas_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc"
+    ]
+   }
+  ]
+ },
+ "MRI-CGCM3|piControl|vas": {
+  "member": "r1i1p1",
+  "version": "v20120701",
+  "end_year": 2350,
+  "files": [
+   {
+    "title": "vas_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc",
+    "size": 1228963592,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/piControl/mon/atmos/Amon/r1i1p1/v20120701/vas/vas_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/piControl/mon/atmos/Amon/r1i1p1/v20120701/vas/vas_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc"
+    ]
+   }
+  ]
+ },
+ "MRI-CGCM3|midHolocene|uas": {
+  "member": "r1i1p1",
+  "version": "v20120701",
+  "end_year": 2050,
+  "files": [
+   {
+    "title": "uas_Amon_MRI-CGCM3_midHolocene_r1i1p1_195101-205012.nc",
+    "size": 245808392,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/midHolocene/mon/atmos/Amon/r1i1p1/v20120701/uas/uas_Amon_MRI-CGCM3_midHolocene_r1i1p1_195101-205012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/midHolocene/mon/atmos/Amon/r1i1p1/v20120701/uas/uas_Amon_MRI-CGCM3_midHolocene_r1i1p1_195101-205012.nc"
+    ]
+   }
+  ]
+ },
+ "MRI-CGCM3|midHolocene|vas": {
+  "member": "r1i1p1",
+  "version": "v20120701",
+  "end_year": 2050,
+  "files": [
+   {
+    "title": "vas_Amon_MRI-CGCM3_midHolocene_r1i1p1_195101-205012.nc",
+    "size": 245808392,
+    "http": [
+     "https://esgf.ceda.ac.uk/thredds/fileServer/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/midHolocene/mon/atmos/Amon/r1i1p1/v20120701/vas/vas_Amon_MRI-CGCM3_midHolocene_r1i1p1_195101-205012.nc"
+    ],
+    "opendap": [
+     "https://esgf.ceda.ac.uk/thredds/dodsC/esg_dataroot/cmip5/output1/MRI/MRI-CGCM3/midHolocene/mon/atmos/Amon/r1i1p1/v20120701/vas/vas_Amon_MRI-CGCM3_midHolocene_r1i1p1_195101-205012.nc"
+    ]
+   }
+  ]
+ }
+}

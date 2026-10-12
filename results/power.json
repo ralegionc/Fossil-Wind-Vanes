@@ -1,0 +1,9 @@
+{
+ "planted_gain_mean": -0.09170170827858082,
+ "planted_gain_5_95": [
+  -2.423784494086728,
+  2.2082785808147167
+ ],
+ "power": 0.015,
+ "median_predicted_rotation": 3.5
+}

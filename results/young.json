@@ -1,0 +1,11 @@
+{
+ "tiles_with_both_scenes": 1495,
+ "fields": 36,
+ "check1_median_abs_diff": 4.0,
+ "check1_passes": true,
+ "share_with_oblique_young": 0.5424749163879599,
+ "check2_young_misfit_bi": 49.964858199753394,
+ "check2_young_misfit_best": 19.918002466091245,
+ "check2_passes": false,
+ "secondary_unmasked_young_misfit_bi": 56.07792642140468
+}
